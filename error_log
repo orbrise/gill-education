@@ -1,0 +1,2 @@
+[24-Mar-2019 15:32:33 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\Admin\MainController::DeactivatePro() in /home/x8pkk3mlqwc0/public_html/gill/app/Http/Controllers/Admin/MainController.php on line 410
+[27-Apr-2019 14:42:13 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\HomeController::Countries() in /home/x8pkk3mlqwc0/public_html/gill/app/Http/Controllers/HomeController.php on line 60
